@@ -1,0 +1,124 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* LG Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    
+.header_top_info ul li {
+    margin-right: 20px;
+}
+.header-top-social-links {
+	margin-left: 5px;
+}
+.header_top_menu_area ul li {
+	margin-left: 10px;
+}
+.main-menu ul li {
+	margin-right: 30px;
+}
+.header_top_btn {
+	margin-left: -30px;
+}
+.slider_text {
+	margin-top: 170px;
+}
+.slider_text h2 {
+	font-size: 66px;
+}
+.slider_text p {
+	font-size: 18px;
+}
+.slider_img img {
+	width: 100%;
+}
+.section_title h2 {
+	font-size: 45px;
+}
+.about_text {
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.about_text p {
+	font-size: 15px;
+	margin: 0;
+}
+.about_founder {
+	padding-bottom: 20px;
+}
+.about_list {
+	margin-top: 10px;
+}
+.about_list .single_item {
+	margin-bottom: 0px;
+}
+.about_list .single_item span {
+	font-size: 13px;
+}
+.services_provied_content {
+	margin-left: 25px;
+	margin-right: 25px;
+}
+.services_provied_content .services_price {
+	font-size: 15px;
+}
+.services_provied_content .services_title {
+	font-size: 15px;
+}
+.make_call .call_text span {
+	font-size: 20px;
+}
+.make_call .call_text h3 {
+	font-size: 27px;
+}
+.call_action_right_side {
+	padding-top: 0;
+}
+.action_form_area {
+	margin-top: 25px;
+}
+.action_form_area .action_form_group {
+	margin-bottom: 25px;
+}
+.support_content_area {
+	padding-top: 0px;
+}
+.feature_text p {
+	display: none;
+}
+
+.discount_title h2 {
+	font-size: 48px;
+}
+.discount_title span {
+	font-size: 40px;
+}
+
+
+}
+
+ 
+/* MD Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+
+
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+
+ 
+}
+ 
+/* SM Large Mobile :480px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+.container {width:550px}
+    
+}
